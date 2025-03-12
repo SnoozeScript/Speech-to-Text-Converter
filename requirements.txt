@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+torch
+torchaudio
+numpy
+pydantic
+python-multipart
+flask
+flask-cors
+ffmpeg
